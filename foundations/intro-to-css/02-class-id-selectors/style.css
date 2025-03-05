@@ -1,0 +1,23 @@
+.class, .cooler-class {
+    background-color: palevioletred;
+}
+
+.cooler-class {
+    font-size: 40px;
+}
+
+#id-01, #id-02 {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#id-01 {
+    color: blue;
+    font-size: 30px;
+}
+
+#id-02 {
+    font-weight: bold ;
+    font-size: 25px;
+    background-color: aquamarine;
+}
